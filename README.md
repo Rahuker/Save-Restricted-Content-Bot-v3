@@ -126,9 +126,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 <details>
 <summary><b>Deploy on Heroku</b></summary>
 
-1. Fork and Star the repo.
-2. Click [Deploy on Heroku](https://heroku.com/deploy).
-3. Enter required variables and click deploy ✅.
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/Rahuker/DRM-master)
 
 </details>
 
