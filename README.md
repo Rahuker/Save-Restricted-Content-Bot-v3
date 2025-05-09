@@ -126,7 +126,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 <details>
 <summary><b>Deploy on Heroku</b></summary>
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/Rahuker/DRM-master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/Rahuker/Save-Restricted-Content-Bot-v3)
 
 </details>
 
